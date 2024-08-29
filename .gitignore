@@ -1,0 +1,5 @@
+excel/*
+!excel/original.xlsx
+__pycache__/*
+chromedriver_win32/*
+.env
